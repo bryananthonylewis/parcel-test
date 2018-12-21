@@ -1,3 +1,3 @@
 import './sass.scss';
 
-document.querySelector('.messsage').innerHTML = 'Hello World!';
+document.getElementById('message').innerText = 'Hello World!';

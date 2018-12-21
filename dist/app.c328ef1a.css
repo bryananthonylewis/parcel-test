@@ -1,7 +1,7 @@
 body {
   background-color: powderblue; }
 
-.message {
+#message {
   color: blue;
   font-size: 3em;
   text-align: center; }
